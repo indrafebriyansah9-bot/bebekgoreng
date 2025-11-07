@@ -1,0 +1,18 @@
+table{
+    font-family: "arial"
+    
+    margin auto
+}
+
+
+.table{
+    border-collapse: collapse;
+    font-size: 13px;
+}
+
+
+
+.table td{
+    border-bottom: 1px solid#add;
+    border-left:1px solid#add
+}

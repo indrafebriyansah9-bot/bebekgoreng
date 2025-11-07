@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: rgb(203, 235, 235);
+}
+td:hover{background-color: blue;}
+
+
+th{
+    background-color: aqua;
+}
