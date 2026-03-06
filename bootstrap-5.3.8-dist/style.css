@@ -1,5 +1,5 @@
 .main-nabar{
-    background-color: aqua;
+    background-color: rgb(0, 72, 72);
 }
 .navbar-brand,
 .na-link{
@@ -10,4 +10,25 @@
     background:
     linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
     url(istockphoto-1695346758-612x612.jpg);
+}
+.icon-service{
+    width: 80px;
+    height: 100px;
+    border: solid #ffffff 2px;
+    border-radius: 50%;
+    color: rgb(19, 18, 19);
+}
+
+.background-service{
+    height: 100px;;
+    width: auto;
+    background: rgb(235, 111, 44);
+}
+
+.background-promo{
+    background-color: blueviolet;
+}
+
+.pelayanan{
+    background-color: blueviolet;
 }
