@@ -1,2 +1,0 @@
-# bebekgoreng
-bakulbeebek
